@@ -16,7 +16,7 @@
 | Project | Description |
 |---|---|
 | [**k8s-sre-agent**](https://github.com/Sudo-oy/k8s-sre-agent) | Read-only CLI that diagnoses broken Kubernetes namespaces: deterministic detectors plus optional LLM root cause analysis (Anthropic, OpenAI-compatible, Ollama). |
-| [**eks-terraform-iac**](https://github.com/Sudo-oy/eks-terraform-iac) | Reusable Terraform module for Amazon EKS with VPC, ECR and an optional private PostgreSQL database, tested with `terraform test` and scanned with tflint and checkov. |
+| [**terraform-aws-eks-platform**](https://github.com/Sudo-oy/terraform-aws-eks-platform) | Reusable Terraform module for Amazon EKS with VPC, ECR and an optional private PostgreSQL database, tested with `terraform test` and scanned with tflint and checkov. |
 | [**devops-portfolio**](https://github.com/Sudo-oy/devops-portfolio) | Reference delivery platform: hardened container, Kustomize manifests, Prometheus alerting and a CI pipeline with security gates. |
 
 ## 🧭 What I care about
